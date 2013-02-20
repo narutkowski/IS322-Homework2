@@ -1,4 +1,19 @@
-Big Shots Sports Bar is a local sports bar in my community. After going on their site, to see what specials they had for drinks on a Sunday night, I realized that the site is very sloppy, with broken links, huge images, annoying YouTube videos that play automatically, etc. Since I was on my smartphone, I also noticed the site is not responsive, and very difficult to navigate on a smartphone. So, I decided to redesign the bigshotssportsbarnj.com site. The target audience for this site is adults, 21+ years, who like to watch sports, get drinks with friends, or listen to music. The audience of this site are most likely going to the site to find out about specials, location of the bar itself, and events. I decided to change the look of the navigation, so that it is easier to navigate, and nicer to look at. I also decided to change the way daily specials are viewed. Instead of the weekdays appearing above the image, the weekdays are presented as buttons, which will then change the specials image when clicked. I also decided to get rid of the football field background, and the red font to make the site easier on the eyes. I also moved the description of the bar up next to the slideshow image so that the users could quickly and easily find and read it. The white boxes are where advertisements could go, but I don’t foresee Big Shots needing to add advertisements to their site. 
+Big Shots Sports Bar is a local sports bar in my community. After going on their site, to see what specials they had 
+for drinks on a Sunday night, I realized that the site is very sloppy, with broken links, huge images, annoying YouTube
+videos that play automatically, etc. Since I was on my smartphone, I also noticed the site is not responsive, and very 
+difficult to navigate on a smartphone. So, I decided to redesign the bigshotssportsbarnj.com site. The target audience
+for this site is adults, 21+ years, who like to watch sports, get drinks with friends, or listen to music. 
+The audience of this site are most likely going to the site to find out about specials, location of the bar itself, 
+and events. I decided to change the look of the navigation, so that it is easier to navigate, and nicer to look at. I 
+also decided to change the way daily specials are viewed. Instead of the weekdays appearing above the image, the 
+weekdays are presented as buttons, which will then change the specials image when clicked. I also decided to get rid 
+of the football field background, and the red font to make the site easier on the eyes. I also moved the description of 
+the bar up next to the slideshow image so that the users could quickly and easily find and read it. The white boxes are 
+where advertisements could go, but I don’t foresee Big Shots needing to add advertisements to their site. 
 
-On the mobile version of bigshotssportsbar.com I made it very simple to use, turning the menu into buttons themselves, that when clicked would expand and show the information. I feel this would be easy to use and navigate on a mobile device. I also took out the slideshow and just left an image of Big Shots under the logo. For the tablet, desktop, and extended desktop design, I pretty much kept things the same, just changed image sizes, and changed the menu slightly on the tablet design. 
+On the mobile version of bigshotssportsbar.com I made it very simple to use, turning the menu into buttons themselves, 
+that when clicked would expand and show the information. I feel this would be easy to use and navigate on a mobile 
+device. I also took out the slideshow and just left an image of Big Shots under the logo. For the tablet, desktop, 
+and extended desktop design, I pretty much kept things the same, just changed image sizes, and changed the menu slightly
+on the tablet design. 
 
